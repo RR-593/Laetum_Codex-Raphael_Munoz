@@ -24,7 +24,24 @@ Laetum Cōdex - projects done for the joy of problem-solving
 
 - Myself - to showcase projects (mainly) and a bit of me 
 	+ The site should be easy to navigate for my self so i can easly add content and show off content with ease
-- Friends
+
+- Peers
+- Family and friends
+- Employers
+
+# Pages
+
+## main page
+
+I would like a cool graphic then a title and action text blurb and under should be coding projects
+the nave by should be intially hidden and toggable with a click
+
+Should just focus on main page presentation then how projects are going to be seen as
+
+
+
+
+
 
 
 Code is MIT licensed. Portfolio content and images are © Caitlin [Year] and may not be reused without permission.
