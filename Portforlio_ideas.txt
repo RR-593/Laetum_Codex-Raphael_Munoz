@@ -1,0 +1,30 @@
+Raph Web Portforlio - Laetum Cōdex
+
+
+## Web Name
+
+A name cements the object to follow its path~
+
+Laetum - joyful, glad (light, neutral)
+Cōdex - collection of rules in relation to systems and logic
+
+Laetum Cōdex - projects done for the joy of problem-solving
+
+## Purpose
+
+- Coding projects
+- Hobby's
+- Who am I and values
+- My climbing activities
+- Articles and books I like
+
+## Site Hiarchy
+
+### who and why is the user visiting site?
+
+- Myself - to showcase projects (mainly) and a bit of me 
+	+ The site should be easy to navigate for my self so i can easly add content and show off content with ease
+	+ 
+
+
+Code is MIT licensed. Portfolio content and images are © Caitlin [Year] and may not be reused without permission.
